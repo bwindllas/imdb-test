@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="IMDb Regression Suite">
+    <test name="IMDb Test">
+        <classes>
+            <class name="tests.IMDbTest"/>
+        </classes>
+    </test>
+</suite>
